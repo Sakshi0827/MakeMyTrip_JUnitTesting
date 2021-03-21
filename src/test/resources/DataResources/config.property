@@ -1,0 +1,5 @@
+driverPath=C:\\Geckodriver\\geckodriver.exe
+
+url=https://www.makemytrip.com/
+
+excelSheetPath = C:\\Users\\sakskhan\\eclipse-workspace\\MakeMyTripTestNG\\src\\test\\resources\\DataResources\\POI1.xlsx
